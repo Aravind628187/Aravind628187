@@ -56,7 +56,7 @@
 
 ## 🏆 Certifications  
 
-✅ Internship Common Aptitude Test - ICAT
+✅ Internship Common Aptitude Test - ICAT                          .
 ✅ Android App Development Bootcamp (Kotlin) – Udemy  
 
 ---
