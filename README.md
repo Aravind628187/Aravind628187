@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me  
 
 🎓 B.Tech CSE (AI & ML) Student at **Parul University**  
-💡 Passionate about **Full Stack Development, Python Projects & Machine Learning Applications**  
+💡 Passionate about **Full Stack Development & Machine Learning Applications**  
 🚀 Actively looking for **Campus Placement Opportunities**  
 📍 From Pulivendula, Andhra Pradesh, India  
 
@@ -48,10 +48,10 @@
   <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,mysql,sqlite,git,github,vscode" />
 </p>
 
-✅ **Languages:** Python, JavaScript (Basics), SQL  
+✅ **Languages:** Python, Java(Basics), SQL  
 ✅ **Frameworks:** Django, Flask  
 ✅ **Machine Learning:** Scikit-learn, Pandas, NumPy  
-✅ **Databases:** MySQL, SQLite  
+✅ **Databases:** MySQL, SQLite, MongoDB
 
 
 ## 🏆 Certifications  
