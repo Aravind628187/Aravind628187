@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravind Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+DSA+Enthusiast;Machine+Learning+Enthusiast;DSA+Open+to+Campus+Placements;Always+Learning+New+Tech!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+DSA+Enthusiast;Machine+Learning+Enthusiast;Open+to+Campus+Placements;Always+Learning+New+Tech!"/>
 </p>
 
 ---
