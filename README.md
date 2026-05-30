@@ -63,7 +63,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/Lalith9701/Lalith9701/raw/main/lalithcharanresume.pdf">
+  <a href="https://drive.google.com/file/d/1uU5tmQXsQ7jSaKWpLrtr-jg5wC_ID2wo/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Download%20Resume-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
