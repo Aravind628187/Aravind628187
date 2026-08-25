@@ -1,231 +1,162 @@
 <div align="center">
 
-# CHINTHAMANU ARAVIND KUMAR
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:4c1d95,60:78350f,100:0e7490&height=220&section=header&text=Aravind%20Kumar%20Chinthamanu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-### 🚀 Full Stack Developer • MERN Stack • AI & ML
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Open+to+Campus+Placements;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%C2%B7+MERN+%2B+AI%2FML;5%2B+ML+Algorithms+Shipped+to+Production;LLM+Integration%3A+Gemini+%C2%B7+GPT-4+%C2%B7+RAG;Built+a+Live+Financial+Assistant+on+Telegram;Ready+to+Contribute+from+Day+One" />
 
 <br>
 
-<a href="mailto:chithamanaravind@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aravind628187">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Aravind628187&style=for-the-badge&color=orange"/>
+[![Gmail](https://img.shields.io/badge/-chithamanaravind%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:chithamanaravind@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/chinthamanuaravindkumar/)
+[![GitHub](https://img.shields.io/badge/-Aravind628187-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Aravind628187)
+[![LeetCode](https://img.shields.io/badge/-100%2B%20Solved-0f172a?style=for-the-badge&logo=leetcode&logoColor=38BDF8)](https://leetcode.com/u/aravind628187/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-0f172a?style=for-the-badge&logo=hackerrank&logoColor=38BDF8)](https://www.hackerrank.com/profile/chithamanaravind)
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:78350f,100:0e7490&height=2"/>
 
-# 👨‍💻 About Me
+## 🎯 Summary
 
-🎓 B.Tech CSE (AI & ML) Student at **Parul University (2023 – 2027)**
+> Final-year **B.Tech CSE (AI & ML)** student at Parul University (Batch 2027), seeking **Software Engineer / ML Engineer** roles. Built production-grade full-stack and AI-integrated systems using **React, Node.js/Express, FastAPI, Flask, and PostgreSQL**, shipping **5+ ML algorithms** (KMeans, PCA, Isolation Forest, Linear Regression, Anomaly Detection) and **4+ LLM-powered applications** (Google Gemini, GPT-4) — from NLP-driven data analysis to a fail-closed, source-grounded financial assistant live on Telegram. Solved **100+ LeetCode problems** across arrays, graphs, trees, DP, and binary search.
 
-📍 Pulivendula, Andhra Pradesh, India
+<br>
 
-💻 Passionate about Full Stack Development and Software Engineering
+## 🛠 Technical Skills
 
-🚀 Building scalable web applications using MERN Stack
+<table>
+<tr><td valign="top" width="50%">
 
-🤖 Interested in Machine Learning & AI Applications
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,javascript,java,mysql"/></p>
 
-📚 Currently learning Advanced DSA, System Design & Backend Development
+**Web Development**
+<p><img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css"/></p>
+JWT Auth · Role-Based Access Control · REST API Design
 
-🎯 Looking for Campus Placement Opportunities
+</td><td valign="top" width="50%">
 
-⚡ Strong problem-solving mindset and continuous learner
+**AI / ML & LLMs**
 
----
+`Scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy` `SciPy`
+`RAG` `Prompt Engineering` `NLP` `Embeddings`
+`Google Gemini API` `GPT-4` `Model Evaluation`
 
-# 🛠 Technical Skills
+**ML Techniques:** Regression · Clustering (KMeans) · PCA · Isolation Forest · Anomaly Detection
 
-## Programming Languages
+</td></tr>
+<tr><td valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite"/></p>
 
-## Frontend Development
+</td><td valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+**Tools & Cloud**
+<p><img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,docker,linux"/></p>
+GitHub Actions (CI/CD) · Celery · Alembic · AWS S3 · Jupyter Notebook
 
-## Backend Development
+</td></tr>
+<tr><td colspan="2" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
+**Core Concepts:** `DSA` `OOP` `MVC` `Microservices` `System Design` `DBMS` `Operating Systems` `Unit Testing (Pytest)`
 
-## Databases
+</td></tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:78350f,100:0e7490&height=2"/>
 
-## Tools & Technologies
+## 💼 Experience
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+**Java Development Intern / Software Development Intern — Java** · *Oasis Infobyte (Remote)* · Jul 2026 – Aug 2026
+- Developed and tested Java-based backend modules and REST endpoints on a remote engineering team, applying OOP principles and MVC architecture through structured exercises (class hierarchies, interfaces, encapsulation, exception handling, Java Collections, file I/O).
+- Collaborated on code reviews and debugging under a remote fellowship format, building the software-engineering discipline (version control, structured testing) now applied to ML and LLM pipeline development in personal projects.
 
-## Machine Learning
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:78350f,100:0e7490&height=2"/>
 
-- NumPy
-- Pandas
-- Scikit-Learn
-- Data Analysis
-- Machine Learning Models
+## 🚀 Featured Projects
 
----
+### 💹 Atlas AI — Source-Grounded Financial Assistant for Telegram
+`Python` `Telegram Bot API` `FastAPI` `Google Gemini API` `SQLite/PostgreSQL` `SEC EDGAR` `Finnhub` `FMP`
 
-# 🚀 Featured Projects
+- Built an AI-powered Telegram financial assistant with a typed **FinancialDataGateway** routing across Finnhub, FMP, Twelve Data, Alpha Vantage, and yfinance with health-aware failover and cross-provider disagreement checks.
+- Implemented deterministic financial calculations (CAGR, drawdown, P/E, position sizing) in Python rather than the LLM, SEC EDGAR 10-K/10-Q/8-K filing lookup, and a **fail-closed design** reporting data as unavailable instead of inventing values.
+- Built conversational watchlists, price alerts, multi-company comparisons, grounded morning briefings, and an admin dashboard for provider health/reliability telemetry — deployed on Render with Neon PostgreSQL via webhook.
 
-## 🚗 HUB Cars – Smart Car Marketplace & Price Prediction
-
-### Tech Stack
-MongoDB • Express.js • React.js • Node.js • Python • Machine Learning
-
-### Features
-
-✔ Full-stack car marketplace platform
-
-✔ Machine Learning based price prediction
-
-✔ Responsive UI
-
-✔ REST API Integration
-
-✔ MongoDB Database Management
-
-✔ Git & GitHub Version Control
-
----
-## 🤖 AI Resume Analyzer
-
-### Tech Stack
-
-Flask • Python • Google Gemini AI • HTML • CSS
-
-### Features
-
-✔ AI-powered Resume Analysis
-
-✔ Smart Feedback System
-
-✔ Resume Content Evaluation
-
-✔ Skill Gap Detection
-
-✔ Improvement Suggestions
-
-✔ Gemini AI Integration
+📎 [github.com/Aravind628187/atlas-ai-financial-assistant](https://github.com/Aravind628187/atlas-ai-financial-assistant) · 🔗 [Live Bot](https://atlas-ai-9frm.onrender.com/)
 
 ---
 
-# 🏆 Achievements
+### 📊 BIForge — Enterprise AI Business Intelligence Platform
+`FastAPI / Flask` `React (Vite + TS)` `PostgreSQL` `Redis` `Celery` `Alembic` `Scikit-learn` `XGBoost` `LightGBM` `Plotly` `Google Gemini AI`
 
-🥇 Selected for Next Round in TERN Placement Drive for Backend Developer Role
+- Engineered a **Natural Language Query Engine** converting plain-English prompts into executable Python, auto-generating interactive Plotly visualizations via Gemini AI.
+- Built a full-stack BI platform exposing **13+ REST API endpoints**, with JWT auth, refresh tokens, and 4-tier RBAC (Admin/Manager/Analyst/Viewer).
+- Implemented and validated **5 ML algorithms** (KMeans, PCA, Isolation Forest, Linear Regression, Anomaly Detection) in an AutoML pipeline (XGBoost, LightGBM, Random Forest) with automated multi-metric evaluation (accuracy, F1, R², silhouette score) and automatic best-model selection.
+- Integrated an LLM-powered chat interface (GPT-4/Gemini) for natural-language dataset analysis, with Celery/Redis background job processing, Alembic-managed migrations, a Pytest test suite, automated PDF/Excel/CSV/JSON exports, and Docker Compose deployment.
 
-🥇 Built Full Stack MERN Applications
-
-🥇 Developed AI-Powered Resume Analyzer
-
-🥇 Strong Foundation in Java & Data Structures
-
----
-
-# 📜 Certifications
-
-| Certification | Organization |
-|--------------|-------------|
-| Android App Development Bootcamp (Kotlin) | Udemy |
-| Internship Common Aptitude Test (ICAT) | ICAT |
+📎 [github.com/Aravind628187/enterprise-ai-bi-platform](https://github.com/Aravind628187/enterprise-ai-bi-platform)
 
 ---
 
-# 📚 Education
+### 🎫 SupportCopilot — AI-Powered Customer Support Workspace
+`React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `Google Gemini API` `Tailwind CSS`
+
+- Built a full-stack support workspace unifying ticket triage, customer records, knowledge base, and AI-assisted reply drafting, with refresh-token rotation via httpOnly cookies and Role-Based Access Control.
+- Integrated Gemini for **RAG-style, knowledge-base-grounded reply drafting** with human-in-the-loop review; added ticket search/filters, bulk close, CSV export, a Recharts dashboard, and audit logging — validated by **9 automated test suites** (Vitest, Supertest, Playwright).
+
+📎 [github.com/Aravind628187/support-copilot](https://github.com/Aravind628187/support-copilot) · 🔗 [Live Demo](https://support-copilot-seven.vercel.app)
+
+---
+
+### 🚗 HUB Cars — AI-Powered Car Marketplace & Price Prediction
+`React` `Vite` `Node.js` `Express.js` `Python` `Flask` `Scikit-learn` `Pandas` `NumPy`
+
+- Built a standalone **600-tree Random Forest Regressor** microservice pricing engine across the top 15 vehicle brands with engineered features (car age, km/year), estimating 4 price tiers (Fair, Good, Excellent, Dealer) — deployed independently for horizontal scaling.
+- Implemented JWT + bcrypt authentication, Multer-based image uploads, configurable 10-/20-day auto-expiring listings, and Google Maps-based showroom discovery — deployed as **3 independent microservices**.
+
+📎 [github.com/Aravind628187/Car-price-prediction-system](https://github.com/Aravind628187/Car-price-prediction-system)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:78350f,100:0e7490&height=2"/>
+
+## 🏆 Certifications & Achievements
+
+| Certification / Achievement | Organization | Date |
+|---|---|---|
+| Data Science & Analytics | HP LIFE (HP Foundation) | Jun 2026 |
+| Data Analytics Job Simulation | Deloitte (Forage) | Jul 2026 |
+| HackerRank Certifications | Java, React, Python (Basic) | — |
+| Android App Development Bootcamp (Kotlin) | Udemy | — |
+| Internship Common Aptitude Test (ICAT) | ICAT | — |
+| Team Creative Code — Teliport Season 3 | Tata Elxsi, Parul University | Jun 2026 |
+| 100+ LeetCode Problems Solved | Arrays, Graphs, Trees, DP, Binary Search | Ongoing |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:78350f,100:0e7490&height=2"/>
+
+## 🎓 Education
 
 | Degree | Institution | Duration |
-|----------|-------------|----------|
-| B.Tech CSE (AI & ML) | Parul University | 2023 – 2027 |
-| Intermediate (MPC) | Narayana Junior College | 2021 – 2023 |
+|---|---|---|
+| B.Tech — Computer Science & Engineering (AI & ML) | Parul University, Gujarat | 2023 – 2027 |
+| Higher Secondary (Maths, Physics & Chemistry) | Narayana Junior College, Pulivendula | 2021 – 2023 |
 | SSC | S.M.M.S High School | 2020 – 2021 |
 
----
-
-# 🌐 Coding Profiles
+<br>
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aravind628187/)
+### 📈 GitHub Analytics
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chithamanaravind)
+<img src="https://github-readme-stats.vercel.app/api?username=Aravind628187&show_icons=true&theme=dracula&hide_border=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&cache_seconds=86400" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Aravind628187&theme=dracula&hide_border=true&background=0f172a&ring=38BDF8&fire=F59E0B" height="165"/>
 
-</div>
+### 🤝 Connect
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:chithamanaravind@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/chinthamanuaravindkumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Aravind628187)
+[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=38BDF8)](https://www.instagram.com/aravind_kumar_45_/)
 
-# 📄 Resume
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/Download_Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:chithamanaravind@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/chinthamanuaravindkumar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aravind628187">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/aravind_kumar_45_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100024325184735">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Aravind628187/Aravind628187/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
-<div align="center">
-
-### ⭐ "Code is like humor. When you have to explain it, it's bad."
-
-### Thanks for visiting my profile!
-
-If you like my work, consider giving ⭐ to my repositories.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,40:78350f,75:4c1d95,100:0f172a&height=120&section=footer"/>
 
 </div>
