@@ -145,10 +145,20 @@ GitHub Actions (CI/CD) · Celery · Alembic · AWS S3 · Jupyter Notebook
 
 <div align="center">
 
-### 📈 GitHub Analytics
+### 📌 Quick Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aravind628187&show_icons=true&theme=dracula&hide_border=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&cache_seconds=86400" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Aravind628187&theme=dracula&hide_border=true&background=0f172a&ring=38BDF8&fire=F59E0B" height="165"/>
+![Repos](https://img.shields.io/badge/Repositories-16-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)
+![Stars](https://img.shields.io/badge/Stars_Earned-11-38BDF8?style=for-the-badge&logo=star&logoColor=white&labelColor=0f172a)
+![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-38BDF8?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a)
+![Profile Views](https://komarev.com/ghpvc/?username=Aravind628187&style=for-the-badge&color=38BDF8&labelColor=0f172a)
+
+### 🌱 Currently Exploring
+
+`System Design` · `Advanced DSA` · `Multi-Agent LLM Pipelines` · `Docker & Kubernetes Basics`
+
+### 💬 Ask Me About
+
+Full-stack architecture · LLM integration (RAG, prompt engineering) · ML model deployment · REST API design
 
 ### 🤝 Connect
 
